@@ -1,0 +1,28 @@
+/* .swiper {
+  width: 600px;
+  height: 300px;
+} */
+/* .info-especialidades {
+  background-color: #7c8a98;
+  padding: 40px 0;
+} */
+
+.info-especialidades .swiper-container.slide-esp {
+  width: 100%;
+  max-width: 1200px;
+}
+
+.info-especialidades .swiper-slide {
+  /* max-width: 360px; */
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+/* .info-especialidades .swiper-slide img {
+  width: 100%;
+  max-width: 200px;
+  max-height: 200px;
+  object-fit: contain;
+  object-position: center;
+} */
